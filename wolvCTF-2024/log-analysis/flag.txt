@@ -1,0 +1,4 @@
+wctf{ph1sh3r5_l0v3_c0py1ng_d0m41n_n4m35} 
+
+how you do it: cat logs.txt\?token=eyJ1c2VyX2lkIjoxMjk1LCJ0ZWFtX2lkIjo3MDgsImZpbGVfaWQiOjc5fQ.Zfbm0A.967x03RA0LlaVtnPMiEOGOBzM9s | grep -o 'wolv.*' | sort -u 
+
